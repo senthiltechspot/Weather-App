@@ -88,7 +88,7 @@ const CityTable: React.FC = () => {
           </div>
         </div>
       )}
-      <div className="min-w-full mx-auto p-4 bg-white rounded-lg shadow-md">
+      <div className="w-full mx-auto p-4 bg-white rounded-lg shadow-md">
         <div className="flex items-center mb-4">
           <input
             type="text"
